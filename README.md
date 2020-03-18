@@ -47,6 +47,7 @@ Open the 7_LabTest1_COMPLETED.unity scene.
 
 
 # Week 3
+#Hello
 
 ## Learning Objectives:
 - Version Control Systems: basics of working with Git repositories
